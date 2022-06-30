@@ -1,11 +1,10 @@
 ### Hello, I'm . 👋
 
 About me 🎓
-Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍💻
+Software developer with a passion for new future.👩🏻‍💻
 
-    Visits Badge
 
 Languages and Tools 🛠
-C# Python Ruby JavaScript TypeScript React HTML5 CSS3 Sass Bootstrap Markdown Git VS Code GitHub Docker Kubernetes Amazon AWS Linux
+Java MySQL Redis VUE JavaScript  HTML5 Bootstrap Markdown Git VS Code GitHub Docker
 
  
